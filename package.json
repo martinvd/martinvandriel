@@ -1,0 +1,25 @@
+{
+  "name": "martinvandriel",
+  "version": "0.0.0",
+  "description": "The Martin van Driel CLI",
+  "license": "MIT",
+  "repository": "martinvd/martinvandriel",
+  "author": {
+    "name": "Martin van Driel",
+    "email": "martinvd@gmail.com",
+    "url": "https://martinvandriel.com"
+  },
+  "bin": {
+    "martinvandriel": "cli.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "martinvandriel",
+    "cli"
+  ]
+}
