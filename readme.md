@@ -12,4 +12,4 @@ $ npx martinvandriel
 
 ## License
 
-MIT © [Martin van Driel](https://martinvandriel.com)
+MIT
